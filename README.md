@@ -25,7 +25,7 @@
 این دیتاست شامل 800,000 ویدئوی فارسی از پلتفرم آپارات است. اطلاعات متادیتا و متون مربوط به هر ویدئو در این مجموعه وجود داره که برای تحلیل محتوای ویدئویی و کاربردهای NLP مناسب هست.  
 **لینک کگل:** [Aparat Videos - Iranian Video Platform (800K)](https://www.kaggle.com/datasets/mohammadaminorojloo/aparat-videos-iranian-video-platform800k)
 
-### 3. Digikala Comments - E-commerce Reviews (750K رکورد)
+### 3. Digikala Comments - E-commerce Reviews (750K+2M رکورد)
 **توضیحات:**  
 این دیتاست شامل 750,000 کامنت از کاربران دیجی کالا می‌باشد. این داده‌ها به شما کمک می‌کنه تا نظرات مشتریان، تحلیل احساسات و بررسی‌های مربوط به محصولات رو درک کنید.  
 **لینک کگل:** [Digikala Comments - E-commerce Reviews (750K)](https://www.kaggle.com/datasets/mohammadaminorojloo/digikala-comments-e-commerce-review750k)
